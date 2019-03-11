@@ -1,2 +1,0 @@
-# wib-frontend
-wib-frontend
